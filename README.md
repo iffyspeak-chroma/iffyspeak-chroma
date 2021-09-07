@@ -2,7 +2,11 @@
 <hr>
 
 ## About me:
-```I am a 17 year old programmer. Far verse in C# and Java. Speaks minimal Python. A true student of Computer Science.```
+```
+I am a 17 year old programmer. 
+Far verse in C# and Java. Speaks minimal Python. 
+A true student of Computer Science.
+```
 <hr>
 
 ## TODO:
