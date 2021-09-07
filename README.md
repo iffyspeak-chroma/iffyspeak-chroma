@@ -1,12 +1,18 @@
-## Last Updated: 7/10-2021
+## Last Updated: 9/07-2021
+<hr>
 
-- Hey it's me.
-- I program stuff. Mostly in Java and C# but I can do a very tiny bit of Python too
-- I'm a student learning computer science. This account is not for computer science though. This is to post a haven for my projects that are completely unrelated
+## About me:
+```I am a 17 year old programmer. Far verse in C# and Java. Speaks minimal Python. A true student of Computer Science.```
+<hr>
 
 ## TODO:
-- [ ] Create a full plugin that actually does something useful.
-- [ ] Become the perfect programmer
+- [ ] Create my own version of EssentialsX
+- [ ] Create my own API system
+- [ ] Learn how [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) modding works
+- [ ] Create a good [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) mod with expansive features
+
+<hr>
+
 <!---
 iffyspeak-chroma/iffyspeak-chroma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
