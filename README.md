@@ -10,8 +10,8 @@ A true student of Computer Science.
 <hr>
 
 ## Current Projects:
-- [ ] Project PhaserX
-- [ ] Project PhaserX Server
+- Project PhaserX
+- Project PhaserX Server
 
 ## TODO:
 - [ ] Create my own version of EssentialsX
