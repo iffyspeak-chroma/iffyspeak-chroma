@@ -1,4 +1,4 @@
-## Last Updated: 9/07-2021
+## Last Updated: 11/07-2021
 <hr>
 
 ## About me:
@@ -8,6 +8,10 @@ Far verse in C# and Java. Speaks minimal Python.
 A true student of Computer Science.
 ```
 <hr>
+
+## Current Projects:
+- [ ] Project PhaserX
+- [ ] Project PhaserX Server
 
 ## TODO:
 - [ ] Create my own version of EssentialsX
