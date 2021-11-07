@@ -21,6 +21,9 @@ A true student of Computer Science.
 
 <hr>
 
+## My Epic Stats:
+[![iffyspeak-chroma's GitHub stats](https://github-readme-stats.vercel.app/api?username=iffyspeak-chroma)](https://github.com/iffyspeak-chroma/github-readme-stats)
+
 <!---
 iffyspeak-chroma/iffyspeak-chroma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
