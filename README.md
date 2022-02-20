@@ -1,4 +1,4 @@
-## Last Updated: 11/07-2021
+## Last Updated: 02/20-2021
 <hr>
 
 ## About me:
@@ -10,13 +10,10 @@ A true student of Computer Science.
 <hr>
 
 ## Current Projects:
-- Project Traveler
+- Nothing right now!
 
 ## TODO:
-- [ ] Create my own version of EssentialsX
-- [ ] Create my own API system
-- [ ] Learn how [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) modding works
-- [ ] Create a good [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) mod with expansive features
+- Nothing right now!
 
 <hr>
 
