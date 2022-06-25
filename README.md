@@ -10,7 +10,7 @@ A true student of Computer Science.
 <hr>
 
 ## Current Projects:
-- iffyspeak.com
+- Nothing right now!
 
 ## TODO:
 - Nothing right now!
