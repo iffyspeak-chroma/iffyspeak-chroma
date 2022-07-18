@@ -1,9 +1,9 @@
-## Last Updated: 06/24-2022
+## Last Updated: 07/18-2022 (Forgot to change it for my birthday!)
 <hr>
 
 ## About me:
 ```
-I am a 17 year old programmer. 
+I am a 18 year old programmer. 
 Far verse in C# and Java. Speaks minimal Python. 
 A true student of Computer Science.
 ```
