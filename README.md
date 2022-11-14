@@ -1,16 +1,16 @@
-## Last Updated: 07/18-2022 (Forgot to change it for my birthday!)
+## Last Updated: 11/13-2022
 <hr>
 
 ## About me:
 ```
 I am a 18 year old programmer. 
 Far verse in C# and Java. Speaks minimal Python. 
-A true student of Computer Science.
+A true person of pizza consumption.
 ```
 <hr>
 
 ## Current Projects:
-- Nothing right now!
+- Plates (Previously VisuallyRanked `[Privated it lol]`) [Click to view](https://github.com/iffyspeak-chroma/plates)
 
 ## TODO:
 - Nothing right now!
@@ -18,7 +18,7 @@ A true student of Computer Science.
 <hr>
 
 ## My Epic Stats:
-[![iffyspeak-chroma's GitHub stats](https://github-readme-stats.vercel.app/api?username=iffyspeak-chroma&show_icons=true&theme=dark)](https://iffyspeak.com/)
+[![iffyspeak-chroma's GitHub stats](https://github-readme-stats.vercel.app/api?username=iffyspeak-chroma&show_icons=true&theme=dark)](https://github.com/iffyspeak-chroma)
 
 <!---
 iffyspeak-chroma/iffyspeak-chroma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
