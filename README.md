@@ -1,19 +1,20 @@
-## Last Updated: 11/13-2022
+## Last Updated: 09/02-2023
 <hr>
 
 ## About me:
 ```
-I am a 18 year old programmer. 
+I am a 19 year old programmer. 
 Far verse in C# and Java. Speaks minimal Python. 
 A true person of pizza consumption.
 ```
 <hr>
 
 ## Current Projects:
-- Plates (Previously VisuallyRanked `[Privated it lol]`) [Click to view](https://github.com/iffyspeak-chroma/plates)
+- MITM-Gator [Click to view](https://github.com/iffyspeak-chroma/MITM-Gator)
+- Pedalium [Click to view](https://github.com/iffyspeak-chroma/Pedalium)
 
 ## TODO:
-- Nothing right now!
+- Introduce SocketIO to MITM-Gator so I can stop using Plugin Channel Messenger (I can't get it to work)
 
 <hr>
 
