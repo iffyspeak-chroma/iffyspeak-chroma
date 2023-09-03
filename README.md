@@ -6,6 +6,9 @@
 I am a 19 year old programmer. 
 Far verse in C# and Java. Speaks minimal Python. 
 A true person of pizza consumption.
+
+
+Also, I'm super easily distracted. Be weary of abandonned projects.
 ```
 <hr>
 
