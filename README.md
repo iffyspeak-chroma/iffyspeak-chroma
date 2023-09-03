@@ -1,4 +1,4 @@
-## Last Updated: 09/02-2023
+## Last Updated: 09/03-2023
 <hr>
 
 ## About me:
@@ -11,10 +11,10 @@ A true person of pizza consumption.
 
 ## Current Projects:
 - MITM-Gator [Click to view](https://github.com/iffyspeak-chroma/MITM-Gator)
-- Pedalium [Click to view](https://github.com/iffyspeak-chroma/Pedalium)
+- ~~Pedalium [Click to view](https://github.com/iffyspeak-chroma/Pedalium)~~ (Please don't. Save your eyes)
 
 ## TODO:
-- Introduce SocketIO to MITM-Gator so I can stop using Plugin Channel Messenger (I can't get it to work)
+- No todo here. Who needs those anyways?
 
 <hr>
 
