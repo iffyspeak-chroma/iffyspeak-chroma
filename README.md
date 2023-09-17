@@ -13,8 +13,7 @@ Also, I'm super easily distracted. Be weary of abandonned projects.
 <hr>
 
 ## Current Projects:
-- MITM-Gator [Click to view](https://github.com/iffyspeak-chroma/MITM-Gator)
-- ~~Pedalium [Click to view](https://github.com/iffyspeak-chroma/Pedalium)~~ (Please don't. Save your eyes)
+- Nothing yet.
 
 ## TODO:
 - No todo here. Who needs those anyways?
