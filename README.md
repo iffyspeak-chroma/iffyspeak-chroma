@@ -12,6 +12,9 @@ Also, I'm super easily distracted. Be weary of abandonned projects.
 ```
 <hr>
 
+## Visitor Count:
+<img src="https://count.getloli.com/get/@:iffyspeak-chroma" alt=":iffyspeak-chroma" />
+
 ## Current Projects:
 - Port BuildCraft to 1.20.4
 
