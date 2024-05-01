@@ -1,4 +1,4 @@
-## Last Updated: 03/15-2024
+## Last Updated: 05/01-2024
 <hr>
 
 ## About me:
@@ -17,8 +17,7 @@ Also, I'm super easily distracted. Be weary of abandonned projects.
 <em>you're the most recent ;) thx qt</em><br>
 
 ## Current Projects:
-- Port BuildCraft to 1.20.4
-- [Java Game Engine](https://github.com/iffyspeak-chroma/Hephaestus4J)
+- Nothing public, currently.
 
 ## TODO:
 - No todo here. Who needs those anyways?
