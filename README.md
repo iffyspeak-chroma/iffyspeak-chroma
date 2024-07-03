@@ -1,9 +1,9 @@
-## Last Updated: 05/01-2024
+## Last Updated: 07/03-2024
 <hr>
 
 ## About me:
 ```
-I am a 19 year old programmer. 
+I am a 20 year old programmer. 
 Far verse in C# and Java. Speaks minimal Python. 
 A true person of pizza consumption.
 
@@ -24,7 +24,6 @@ Also, I'm super easily distracted. Be weary of abandonned projects.
 
 <hr>
 
-## My Epic Stats:
 [![iffyspeak-chroma's GitHub stats](https://github-readme-stats.vercel.app/api?username=iffyspeak-chroma&show_icons=true&theme=dark)](https://github.com/iffyspeak-chroma)
 
 <!---
