@@ -1,4 +1,4 @@
-## Last Updated: 07/03-2024
+## Last Updated: 09/09-2024
 <hr>
 
 ## About me:
@@ -13,7 +13,7 @@ Also, I'm super easily distracted. Be weary of abandonned projects.
 <hr>
 
 ## Visitor Count:
-<img src="https://count.getloli.com/get/@:iffyspeak-chroma" alt="if you're reading this, moe-counter is probably unhappy." />
+<img src="https://count.getloli.com/get/@:iffyspeak-chroma?theme=rule34" alt="if you're reading this, moe-counter is probably unhappy." />
 <em>you're the most recent ;) thx qt</em><br>
 
 ## Current Projects:
