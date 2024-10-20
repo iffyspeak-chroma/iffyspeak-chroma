@@ -1,10 +1,10 @@
-## Last Updated: 09/09-2024
+## Last Updated: 10/20-2024
 <hr>
 
 ## About me:
 ```
 I am a 20 year old programmer. 
-Far verse in C# and Java. Speaks minimal Python. 
+Far verse in C# and Java. Speaks minimal Python and even less C++. 
 A true person of pizza consumption.
 
 
