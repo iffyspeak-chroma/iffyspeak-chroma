@@ -16,11 +16,12 @@ I have quite a lot of knowledge about **Java**. About the same amount in **C#**.
 
 
 ## Come find me
-I usually hang around on [![BlueSky](https://img.shields.io/badge/bluesky-1083fe?style=for-the-badge&logo=linkedin&logoColor=white)](https://bsky.app/profile/iffyspeak.iffyspeak.xyz) and occasionally post on it too.
+I usually hang around on - [![BlueSky](https://img.shields.io/badge/bluesky-1083fe?style=for-the-badge&logo=linkedin&logoColor=white)](https://bsky.app/profile/iffyspeak.iffyspeak.xyz) - and occasionally post on it too.
 
 
 ## Last README.md Change
 I updated this for accurate information on May 02, 2025. Hopefully you get what you need out of it.
+
 <!---
 iffyspeak-chroma/iffyspeak-chroma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
