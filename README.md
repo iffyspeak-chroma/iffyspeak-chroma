@@ -8,7 +8,7 @@
 |---------------|--------------|
 | ![Visitor Count](https://count.getloli.com/get/@:iffyspeak-chroma?theme=rule34) | [![iffyspeak-chroma's GitHub stats](https://github-readme-stats.vercel.app/api?username=iffyspeak-chroma&show_icons=true&theme=dark)](https://github.com/iffyspeak-chroma) |
 
----
+
 ## ❓ About Me
 I am a 20 year old developer with an interest in Minecraft plugin and mod developer with an extreme interest in game development. I absolutely enjoy playing games but I enjoy seeing what makes them *tick* under the hood.
 ## 🛠 Skills
