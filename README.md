@@ -12,7 +12,7 @@
 ## ❓ About Me
 I am a 20 year old developer with an interest in Minecraft plugin and mod developer with an extreme interest in game development. I absolutely enjoy playing games but I enjoy seeing what makes them *tick* under the hood.
 ## 🛠 Skills
-I have quite a lot of knowledge about **Java**. About the same amount in **C#**. I enjoy ?**JavaScript** and **Typescript** but know less about their internal workings and tricks that can be used. Continuing down the ladder I have an idea of how to use **Lua** but past that would take some amount of research for me to figure out what needs to be done. This is similar with my skill on **Python**. Eventually we hit the bottom of the ladder. I am currently learning **C++**. It's not easy to wrap your head around at first but C++ is a lot of fun to learn, even with it's steep learning curve.
+I have quite a lot of knowledge about **Java**. About the same amount in **C#**. I enjoy **JavaScript** and **Typescript** but know less about their internal workings and tricks that can be used. Continuing down the ladder I have an idea of how to use **Lua** but past that would take some amount of research for me to figure out what needs to be done. This is similar with my skill on **Python**. Eventually we hit the bottom of the ladder. I am currently learning **C++**. It's not easy to wrap your head around at first but C++ is a lot of fun to learn, even with it's steep learning curve.
 
 
 ## Come find me
